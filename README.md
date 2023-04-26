@@ -1,3 +1,7 @@
+# NOTICE: This project has been archived!
+
+This functionality was superseded by bazel in the [main repo](https://gitlab.com/dfinity-lab/public/ic/) and calling `capsule` was [removed from the repository](https://github.com/dfinity/ic/commit/711a8fbe5f9ea86c19fdd4a506527e72d1989807). Therefore this project is not maintained by DFINITY anymore.
+
 # Capsules
 
 Capsules aims to encapsulate large and small build and test steps in a reproducible, isolated and cacheable
