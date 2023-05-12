@@ -147,6 +147,6 @@ With these milestones achieved, capsules will be much less intrusive than Bazel 
 Opting out: if capsules are used intensively in some build pipeline, enough of dependency information would be collected to make a migration to e.g. Bazel much easier. Therefore one can see Capsules as intermediate step for Bazel adoption.
 
 
-# Contributing
+# License
 
-The Capsules project is released by the DFINITY Foundation under the [Apache-2.0](LICENSE) license and is open to public code contributions.
+The Capsules project is released by the DFINITY Foundation under the [Apache-2.0](LICENSE) license.
